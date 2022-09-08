@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - entry point
- *
+(*
  * print task statement using printf
  * Return: 0
  */
