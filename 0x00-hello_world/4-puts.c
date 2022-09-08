@@ -3,7 +3,7 @@
 /**
  * main - entry point
  *
- * prints task statement 
+ * prints task statement
  * Return: 0
  */
 
