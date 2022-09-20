@@ -5,6 +5,6 @@
  */
 int main(void)
 {
-  char *hello = 'abcdefghijklmnopqrstuvwxyz';
+  char hello = 'abcdefghijklmnopqrstuvwxyz';
   putchar(hello);
 }
