@@ -5,6 +5,10 @@
  */
 int main(void)
 {
-  char hello = 'abcdefghijklmnopqrstuvwxyz';
+  char hello;
+  
+  for (hello = 'a'; hello <= 'z'; hello++)
+  {
   putchar(hello);
+  }
 }
