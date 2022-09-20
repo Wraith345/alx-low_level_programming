@@ -1,8 +1,9 @@
 #include <stdio.h>
 /**
  * main - print alphabets(lowercase)
- * @hello - variable to hold alphabets
- * Return: 0
+ * @hello:  variable to hold alphabets
+ *
+ * Return: always 0
  */
 int main(void)
 {
