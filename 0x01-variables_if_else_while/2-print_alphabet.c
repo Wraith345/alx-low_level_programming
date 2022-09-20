@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - print alphabets(lowercase)
- * return - 0
+ * Return - 0
  */
 int main(void)
 {
