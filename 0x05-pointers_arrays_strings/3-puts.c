@@ -1,0 +1,11 @@
+#include "main.h"
+#include <stdio.h>
+/**
+ * _puts - print string
+ * @*s: string to be printed
+ * Return: 0
+ */
+void _puts(char *str)
+{
+  printf("%s\n", *str);
+}
