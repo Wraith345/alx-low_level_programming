@@ -1,4 +1,4 @@
-void fizz_buzz(void);
+#include "main.h"
 
 void fizz_buzz(void)
 {
