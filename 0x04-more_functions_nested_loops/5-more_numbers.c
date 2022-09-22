@@ -1,4 +1,4 @@
-void more_numbers(void);
+#include "main.h"
 
 void more_numbers(void)
 {
