@@ -1,5 +1,3 @@
-void more_numbers(void);
-
 void more_numbers(void)
 {
   int count = 0;
@@ -13,4 +11,5 @@ void more_numbers(void)
     printf("\n");
     count++;
   }
+  return (0);
 }

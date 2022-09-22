@@ -8,4 +8,5 @@ void print_line(int n)
     count++;
   }
   putchar(10);
+  return (0);
 }

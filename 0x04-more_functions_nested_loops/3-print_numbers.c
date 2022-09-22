@@ -1,5 +1,3 @@
-void print_numbers(void);
-
 void print_numbers(void)
 {
   for (int d =0; d < 11; d++)
@@ -7,4 +5,5 @@ void print_numbers(void)
     printf("%d", d);
   }
   printf("\n");
+  return (0);
 }

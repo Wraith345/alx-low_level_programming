@@ -1,5 +1,3 @@
-void print_square(int size);
-
 void print_square(int size)
 {
   int count;
@@ -15,4 +13,5 @@ void print_square(int size)
     }
     putchar(10);
   }
+  return (0);
 }

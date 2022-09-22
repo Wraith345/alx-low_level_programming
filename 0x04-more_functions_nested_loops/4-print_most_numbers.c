@@ -1,5 +1,3 @@
-void print_most_numbers(void);
-
 void print_most_numbers(void)
 {
   int d;
@@ -20,4 +18,5 @@ void print_most_numbers(void)
     }
   }
   printf("\n");
+  return (0);
 }

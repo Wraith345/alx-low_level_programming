@@ -1,15 +1,11 @@
 #include <stdio.h>
 /**
  * main - print alphabets(lowercase)
- * @hello:  variable to hold alphabets
- *
  * Return: always 0
  */
 int main(void)
 {
-  char hello;
-
-  for (hello = 'a'; hello <= 'z'; hello++)
+  for (char hello = 'a'; hello <= 'z'; hello++)
   {
     putchar(hello);
   }

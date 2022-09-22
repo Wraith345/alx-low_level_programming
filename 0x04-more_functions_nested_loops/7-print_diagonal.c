@@ -1,6 +1,4 @@
 void print_diagonal(void);
-
-void print_diagonal(void);
 {
   int space;
 
@@ -17,4 +15,5 @@ void print_diagonal(void);
     putchar('\');
     putchar(10);
   }
+  return (0);
 }
