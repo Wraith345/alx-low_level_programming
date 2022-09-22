@@ -1,3 +1,5 @@
+#include "main.h"
+
 void print_diagonal(void);
 {
   int space;

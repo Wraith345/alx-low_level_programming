@@ -1,3 +1,5 @@
+#include "main.h"
+
 void print_numbers(void)
 {
   for (int d =0; d < 11; d++)
