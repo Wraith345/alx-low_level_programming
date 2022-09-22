@@ -1,4 +1,4 @@
-int isupper(int c);
+#include "main.h"
 
 int isupper(int c)
 {
