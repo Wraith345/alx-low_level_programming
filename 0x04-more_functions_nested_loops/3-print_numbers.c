@@ -1,4 +1,4 @@
-void print_numbers(void);
+#include "main.h"
 
 void print_numbers(void)
 {
