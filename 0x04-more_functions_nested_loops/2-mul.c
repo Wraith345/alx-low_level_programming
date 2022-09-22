@@ -1,4 +1,4 @@
-int mul(int a, int b);
+#include "main.h"
 
 int mul(int a, int b)
 {
