@@ -1,4 +1,4 @@
-void print_diagonal(void);
+#include "main.h"
 
 void print_diagonal(void);
 {
