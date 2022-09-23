@@ -5,7 +5,9 @@
  */
 int main(void)
 {
-  for (char hello = 'a'; hello <= 'z'; hello++)
+  int hello;
+  
+  for (hello = 97 ; hello <= 122 ; hello++)
   {
     putchar(hello);
   }
