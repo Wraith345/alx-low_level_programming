@@ -4,8 +4,6 @@
 #include <stdio.h>
 /**
  * main - outputs whether a random number is positive, negative or zero
- * @n: the random number to be checked
- *
  * Return: num is positive, negative or zero depending on function output
  */
 
