@@ -1,7 +1,11 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-
+/**
+ * main - check last digit of random number
+ * @last_digit: integer variable for last digit
+ * Return: 0
+ */
 int main(void)
 {
   int n;
