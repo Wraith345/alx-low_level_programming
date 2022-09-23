@@ -11,11 +11,11 @@ int main(void)
 
   for (hello = 'a'; hello <= 'z'; hello++)
     {
-      if (hello = 'e')
+      if (hello == 'e')
       {
 	continue;
       }
-      else if (hello = 'q')
+      else if (hello == 'q')
       {
 	continue;
       }
